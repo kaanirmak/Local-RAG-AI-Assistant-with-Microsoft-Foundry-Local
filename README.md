@@ -20,7 +20,6 @@ A fully offline, browser-based Q&A assistant powered by **Retrieval-Augmented Ge
 - [Hızlı Başlangıç / Quick Start](#-hızlı-başlangıç--quick-start)
 - [Proje Yapısı / Project Structure](#-proje-yapısı--project-structure)
 - [API Referansı / API Reference](#-api-referansı--api-reference)
-- [Sunum Metni / Presentation Script](#-sunum-metni--presentation-script)
 - [Lisans / License](#-lisans--license)
 
 ---
